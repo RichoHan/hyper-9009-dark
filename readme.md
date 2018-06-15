@@ -1,4 +1,4 @@
-# hyper-9009
+# hyper-9009-dark
 
 > A dark version of [hyper-9009](https://github.com/RichoHan/hyper-9009)
 
