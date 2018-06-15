@@ -1,13 +1,13 @@
 # hyper-9009
 
-> A modified Hyper theme based on [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy)
+> A dark version of [hyper-9009](https://github.com/RichoHan/hyper-9009)
 
 ![](screenshot.png)
 
 ## Install
 
 ```
-$ hyper install hyper-9009
+$ hyper install hyper-9009-dark
 ```
 
 ## Explanation
@@ -19,7 +19,7 @@ For all colors used in the theme, please check the table below.
 |Color|GMK Code|Representation|RGB|
 |:-:|:-:|:-:|:-:|
 |Foreground|CR|![#171718](https://placehold.it/15/171718/000000?text=+)|#171718|
-|_Unused_|U9|![#aca693](https://placehold.it/15/aca693/000000?text=+)|#aca693|
+|Light Black|U9|![#aca693](https://placehold.it/15/aca693/000000?text=+)|#aca693|
 |_Unused_|L9|![#d8d2c3](https://placehold.it/15/d8d2c3/000000?text=+)|#d8d2c3|
 |Background|WS1|![#f7f2ea](https://placehold.it/15/f7f2ea/000000?text=+)|#f7f2ea|
 |Green|3B|![#768e72](https://placehold.it/15/768e72/000000?text=+)|#768e72|
@@ -32,4 +32,4 @@ For all colors used in the theme, please check the table below.
 ## License
 MIT
 
-> Copyright for portions of project [hyper-9009](https://github.com/RichoHan/hyper-9009) are held by [[Sindre Sorhus](sindresorhus.com), 2017] as part of project [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy). All other copyright for the rest of the project are held by [[Richo Han](richo.tw), 2018].
+> Copyright for portions of project [hyper-9009-dark](https://github.com/RichoHan/hyper-9009-dark) are held by [[Sindre Sorhus](sindresorhus.com), 2017] as part of project [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy). All other copyright for the rest of the project are held by [[Richo Han](richo.tw), 2018].

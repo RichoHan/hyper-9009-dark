@@ -1,9 +1,9 @@
 {
-	"name": "hyper-9009",
-	"version": "0.0.10",
-	"description": " A modified Hyper theme from hyper-snazzy.",
+	"name": "hyper-9009-dark",
+	"version": "0.0.2",
+	"description": "A dark version of hyper-9009.",
 	"license": "MIT",
-	"repository": "RichoHan/hyper-9009",
+	"repository": "RichoHan/hyper-9009-dark",
 	"author": {
 		"name": "Richo Han",
 		"email": "richohan.dev@gmail.com",

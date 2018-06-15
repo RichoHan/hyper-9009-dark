@@ -11,8 +11,10 @@ const blue = '#00589f';  // V4
 const magenta = '#cb3d6e';  // MG1
 const cyan = '#0084c2';  // N5
 
-const foregroundColor = black;
-const backgroundColor = white;
+const lightBlack = '#aca693'; // U9
+
+const foregroundColor = white;
+const backgroundColor = black;
 
 
 exports.decorateConfig = config => Object.assign({}, config, {
@@ -31,7 +33,7 @@ exports.decorateConfig = config => Object.assign({}, config, {
 		magenta,
 		cyan,
 		white,
-		lightBlack: black,
+		lightBlack,
 		lightRed: red,
 		lightGreen: green,
 		lightYellow: yellow,
