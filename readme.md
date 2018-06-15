@@ -18,10 +18,10 @@ For all colors used in the theme, please check the table below.
 ### Core Colors in [GMK 9009](https://dixiemech.com/shop/gmk9009) & Others Selected from [GMK Colors](https://www.reddit.com/r/MechanicalKeyboards/comments/4sy0lo/gmk_colors/)
 |Color|GMK Code|Representation|RGB|
 |:-:|:-:|:-:|:-:|
-|Foreground|CR|![#171718](https://placehold.it/15/171718/000000?text=+)|#171718|
+|Background|CR|![#171718](https://placehold.it/15/171718/000000?text=+)|#171718|
 |Light Black|U9|![#aca693](https://placehold.it/15/aca693/000000?text=+)|#aca693|
 |_Unused_|L9|![#d8d2c3](https://placehold.it/15/d8d2c3/000000?text=+)|#d8d2c3|
-|Background|WS1|![#f7f2ea](https://placehold.it/15/f7f2ea/000000?text=+)|#f7f2ea|
+|Foreground|WS1|![#f7f2ea](https://placehold.it/15/f7f2ea/000000?text=+)|#f7f2ea|
 |Green|3B|![#768e72](https://placehold.it/15/768e72/000000?text=+)|#768e72|
 |Red|3A|![#c87e74](https://placehold.it/15/c87e74/000000?text=+)|#c87e74|
 |Yellow|N6|![#e5a100](https://placehold.it/15/e5a100/000000?text=+)|#e5a100|
