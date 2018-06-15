@@ -1,0 +1,21 @@
+{
+	"name": "hyper-9009",
+	"version": "0.0.10",
+	"description": " A modified Hyper theme from hyper-snazzy.",
+	"license": "MIT",
+	"repository": "RichoHan/hyper-9009",
+	"author": {
+		"name": "Richo Han",
+		"email": "richohan.dev@gmail.com",
+		"url": "http://richo.tw"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"hyper",
+		"hyper-theme",
+		"elegant"
+	],
+	"dependencies": {}
+}
